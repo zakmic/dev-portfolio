@@ -19,13 +19,10 @@ function About() {
             alt="man-svgrepo"
           />
           <div className="AboutBio">
-            Hello! My name is <strong>Your Name</strong> Lorem Ipsum is simply
-            dummy text of the printing and typesetting industry. Lorem Ipsum has
-            been the industry's standard dummy text ever since the 1500s, when
-            an unknown printer took a galley of type and scrambled it to make a
-            type specimen book. It has survived not only five centuries, but
-            also the leap into electronic typesetting, remaining essentially
-            unchanged.
+            Hello! My name is <strong>Zak Micallef</strong>. I am a software developer with a lot of general intrests such as infrastructure, CI/CD, high availability, and distributed systems.
+            I hold a Bachelor's degree in Artificial Intelligence from the University of Malta while interning at CCBill, which laid a solid academic foundation for my career.
+            With two years of full-time experience at PhoenixNap, an IaaS company, I have gained extensive hands-on experience in leading features and working with technologies such as Spring Boot, NoSQL, and Kubernetes. 
+            Currently, I am pursuing a Master's degree in Computer Science at the University of Amsterdam while continuing to work part-time as a Java Engineer at PhoenixNap. 
           </div>
           <div className="AboutBio tagline2">
             I have become confident using the following technologies.

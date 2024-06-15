@@ -23,22 +23,22 @@ function Hero() {
       <HeroContainer>
         <HeroWrapper>
           <HeroLeft>
-            <h1>Hi, I'm YourName</h1>
-            <h5>Frontend Developer</h5>
+            <h1>Hi, I'm Zak Micallef</h1>
+            <h5>Software Engineer</h5>
             <p>
-              I design and code beautifully simple things, and I love what I do.
+                Coding one beautiful service at a time. 
             </p>
           </HeroLeft>
           <HeroRight>
             <Image
-              src="https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/man-svgrepo-com.svg"
+              src="https://c.tenor.com/AqyLIJ48wQMAAAAd/tenor.gif"
               alt="man-svgrepo"
             />
           </HeroRight>
         </HeroWrapper>
         <ScrollDown to="projects">
           <ScrollLink>
-            Scroll down
+            Discover more
             <img
               src="https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/scroll-down.svg"
               alt="scroll-down"
